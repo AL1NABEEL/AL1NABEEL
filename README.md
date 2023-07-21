@@ -29,5 +29,5 @@
 
 <br/>
 
- <p align="center"> <a href="https://github.com/al1nabeel/github-readme-stats"><img alt="Tridib Dalui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al1nabeel&langs_count=8&count_private=true&layout=compact&theme=github-green-purple&hide_border=true&bg_color=ffffff&background=060A0CD0" /></a>  </p>
+ <p align="center"> <a href="https://github.com/al1nabeel/github-readme-stats"><img alt="Tridib Dalui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al1nabeel&langs_count=8&count_private=true&layout=compact&theme=github-green-purple&hide_border=true&bg_color=0D1117" /></a>  </p>
  </details>
