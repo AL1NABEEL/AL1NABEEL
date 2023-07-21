@@ -21,7 +21,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ali nabeel" src="https://github-readme-streak-stats.herokuapp.com/?user=al1nabeel&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=al1nabeel&show_icons=true&locale=en" alt="al1nabeel" /></p>
+
+<a href="https://github.com/al1nabeel/github-readme-stats"><img alt="ali nabeel" src="https://github-readme-stats.vercel.app/api?username=al1nabeel&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al1nabeel&" alt="al1nabeel" /></p>
