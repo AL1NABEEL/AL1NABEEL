@@ -24,8 +24,8 @@
 <br/>
 
 
-<a href="https://github.com/al1nabeel/github-readme-stats"><img alt="ali nabeel" src="https://github-readme-stats.vercel.app/api?username=al1nabeel&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
+<p align="center"> <a href="https://github.com/al1nabeel/github-readme-stats"><img alt="ali nabeel" src="https://github-readme-stats.vercel.app/api?username=al1nabeel&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a> </p>
 
 <br/>
 
-  <a href="https://github.com/al1nabeel/github-readme-stats"><img alt="Tridib Dalui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al1nabeel&langs_count=8&count_private=true&layout=compact&theme=github-green-purple&hide_border=true&bg_color=0D1117" /></a>
+ <p align="center"> <a href="https://github.com/al1nabeel/github-readme-stats"><img alt="Tridib Dalui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al1nabeel&langs_count=8&count_private=true&layout=compact&theme=github-green-purple&hide_border=true&bg_color=0D1117" /></a>  </p>
